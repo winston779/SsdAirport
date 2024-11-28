@@ -1,6 +1,6 @@
 # SsdAirport机场官网地址
 
-最新地址：[ssdair.bangpi.top](https://ssdair.bangpi.top/#/register?code=mvOwaYUh)
+最新地址：[ssdair.bangpi.top](https://airport.bangpi.top/#/register?code=mvOwaYUh)
 
 ## SsdAirport介绍
 
@@ -12,11 +12,9 @@ SsdAirport机场，性价比机场，节点速度快，4K无压力。
 
 ## SsdAirport优惠码
 
-周末优惠劵 SsdAirportWeek 
+首次购买九折优惠码 SsdAirport9
 
-所有王者套优惠10%
-
-每周六零点到周一零点
+月付6折优惠码 SAYF-40 有效期12月27日前
 
 ## SsdAirport价格
 
